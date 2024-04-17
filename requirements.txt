@@ -4,3 +4,4 @@ pandas
 pydeck
 streamlit
 gtfs-realtime-bindings
+biogeme
