@@ -4,4 +4,8 @@ pandas
 pydeck
 streamlit
 gtfs-realtime-bindings
-biogeme
+folium
+streamlit_folium
+gtfs_functions
+shapely
+geopandas
