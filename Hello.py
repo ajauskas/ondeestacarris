@@ -11,8 +11,9 @@ from google.transit import gtfs_realtime_pb2
 import folium
 from folium.map import FeatureGroup
 from streamlit_folium import st_folium
-from gtfs_functions import Feed
+#from gtfs_functions import Feed
 from datetime import datetime, timedelta
+import gtfs_realtime_pb2  # Generated from gtfs-realtime.proto
 
 from shapely import wkt
 import geopandas as gpd
